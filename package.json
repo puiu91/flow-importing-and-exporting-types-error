@@ -1,0 +1,11 @@
+{
+  "name": "flow-importing-and-exporting-types-error",
+  "description": "An error given by following the flow documentation",
+  "version": "1.0.0",
+  "devDependencies": {
+    "flow-bin": "^0.92.1"
+  },
+  "scripts": {
+    "flow": "flow"
+  }
+}

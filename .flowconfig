@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/*
+
+[include]
+./importsError.js
+./importsSuccess.js
+./exports.js
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
